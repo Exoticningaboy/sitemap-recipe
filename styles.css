@@ -1,0 +1,48 @@
+body{
+    display: grid;
+    grid-template-rows: 10% 20% 30%;
+    gap: 10px;
+}
+h1{
+    text-align: center;
+    padding-left:  20%;
+    padding-right: 20%;
+}
+main
+{
+    display: grid;  
+    grid-template-columns: 10% 12%;
+    justify-content: space-around;
+}
+
+.black
+{
+    
+    background-color: lightgray 
+
+
+}
+.white
+{
+
+    background-color: lightgray
+     
+}
+p{
+    
+    background-color: lightgray 
+    
+}
+img
+{
+    height: 100%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+}   
+footer
+{
+    text-align: center;
+}
+
